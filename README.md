@@ -1,2 +1,5 @@
 # docker_registry
-export from docker.io/registry
+save from docker.io/registry
+for who that cannot connect the docker.io
+Usage:
+docker load --input registry.tar
